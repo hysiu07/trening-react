@@ -1,0 +1,19 @@
+.component4 {
+	text-align: center;
+	background-color: lime;
+	width: 100vw;
+	height: 100vh;
+}
+
+input[type="submit"]{
+    
+    padding: 10px 20px;
+}
+input[type="text"]{
+    font-size: 18px;
+    padding: 10px;
+}
+label{
+    font-size: 20px; 
+    margin-right: 10px;
+}
